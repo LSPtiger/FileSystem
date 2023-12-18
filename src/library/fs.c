@@ -18,10 +18,6 @@
  * @param       disk        Pointer to Disk structure.
  **/
 
-
-
-
-
 void    fs_debug(Disk *disk) {
     Block block;
 
